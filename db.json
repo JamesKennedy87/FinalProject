@@ -1,1 +1,31 @@
-
+{
+  "containers": [
+    {
+      "id": CVG1021,
+    },
+    {
+      "id": CVG1022,
+    },
+    {
+      "id": CVG1023,
+    }
+  ],
+  "packages": [
+    {
+      "id": 92619219,
+      "containerId": CVG1021
+    },
+    {
+      "id": 92619218,
+      "containerId": CVG1021
+    },
+    {
+      "id": 92619220,
+      "containerId": CVG1022
+    },
+    {
+      "id": 92619221,
+      "containerId": CVG1023
+    }
+  ]
+}
